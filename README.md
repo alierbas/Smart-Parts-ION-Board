@@ -1,3 +1,3 @@
 # Smart-Parts-ION-Board
 
-![alt text](hhttps://raw.githubusercontent.com/alierbas/Smart-Parts-ION-Board/master/IMAGES/image1.png)
+![Alt text](https://raw.githubusercontent.com/alierbas/Smart-Parts-ION-Board/master/IMAGES/image1.png)
