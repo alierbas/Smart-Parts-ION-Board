@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 35)
+    (drawings 31)
     (tracks 244)
     (zones 0)
     (modules 37)
@@ -164,7 +164,7 @@
   )
 
   (module ssd1306:128x64OLED (layer top_layer) (tedit 5F3C448D) (tstamp 5F3C529E)
-    (at 68.22 90.34)
+    (at 68.02 93.44)
     (path /5F46E657)
     (fp_text reference Brd1 (at 0 0.254) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -218,7 +218,7 @@
   )
 
   (module Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK (layer top_layer) (tedit 5C2A8900) (tstamp 5F3B1D51)
-    (at 67.52 136.44)
+    (at 118.495001 75.215001)
     (descr http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html)
     (tags "SMD SMT button")
     (path /5F3BC8BE)
@@ -259,7 +259,7 @@
   )
 
   (module Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK (layer top_layer) (tedit 5C2A8900) (tstamp 5F3B1D3B)
-    (at 67.52 131.34)
+    (at 118.495001 70.765001)
     (descr http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html)
     (tags "SMD SMT button")
     (path /5F3C0D64)
@@ -1834,10 +1834,6 @@
     )
   )
 
-  (gr_line (start 62.02 141.84) (end 62.02 77.54) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 83.52 141.84) (end 62.02 141.84) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 83.52 77.54) (end 83.52 141.84) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 62.02 77.54) (end 83.52 77.54) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 63.34 70.6) (end 64.68 70.6) (layer F.SilkS) (width 0.12))
   (gr_line (start 66.84 70.53) (end 66.82 70.53) (layer F.SilkS) (width 0.12))
   (gr_line (start 69.84 70.54) (end 66.84 70.53) (layer F.SilkS) (width 0.12))
